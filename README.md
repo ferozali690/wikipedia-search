@@ -2,6 +2,8 @@
 
 A Simple Search Widget Application that shows the results based on the search term,it is built using React library and implemented Throttling.
 
+## Live Demo(https://search-widget-wiki.herokuapp.com/)
+
 ## Scrips to run project
 
 ### You can then install dependencies using either Yarn or NPM.
