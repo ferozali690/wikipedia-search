@@ -1,10 +1,11 @@
+import { Box } from "@mui/material";
 import Search from "./search";
 
 const App = () => {
   return (
-    <div>
+    <Box mt={5} ml={5}>
       <Search />
-    </div>
+    </Box>
   );
 };
 

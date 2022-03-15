@@ -41,6 +41,8 @@ const Search = () => {
         size="medium"
         onChange={(e) => setSearchInputTerm(e.target.value)}
         value={searchInputTerm}
+        sx={{ width: "82%" }}
+        autoFocus
       />
       <SearchList searchDataResults={wikipediaSearchTermResults} />
     </>
