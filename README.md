@@ -1,4 +1,4 @@
-# e-commerce Clothing App
+# Wikipedia Search Widget App
 
 A Simple Search Widget Application that shows the results based on the search term,it is built using React library and implemented Throttling.
 
